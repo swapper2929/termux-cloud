@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/workspaces/termux-cloud",
+            "binaryPath": "/workspaces/termux-cloud/vapeos.elf",
+            "binaryArgs": []
+        }
+    ]
+}
